@@ -3,3 +3,4 @@ uvicorn
 pydantic
 pandas
 snowflake-connector-python
+mangum
