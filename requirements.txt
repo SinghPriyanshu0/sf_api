@@ -4,3 +4,4 @@ pydantic
 pandas
 snowflake-connector-python
 mangum
+python-dotenv
