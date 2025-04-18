@@ -69,7 +69,7 @@ async def search_order(email: str):
         conn = get_connection()
         cur = conn.cursor()
         schema_name = 'SC'  # Specify your schema name here
-        tables = ['Order1', 'Order2', 'Order3']
+        tables = ['Org1', 'Org2', 'Org3']
 
         for table in tables:
             query = f"""
